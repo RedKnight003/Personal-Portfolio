@@ -5,4 +5,6 @@ The project demonstrates the use of semantic HTML for structure and CSS for styl
 The site includes multiple pages (Home, About, Projects, Contact) connected through a navigation bar.
 CSS techniques such as Flexbox, media queries, and the box model are used to create a clean and responsive layout.
 A contact form is included to practice form structure and styling.
-https://roadmap.sh/projects/portfolio-website
+
+## Project Link
+https://roadmap.sh/projects/portfolio-website 
